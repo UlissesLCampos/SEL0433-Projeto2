@@ -114,16 +114,5 @@ O uso de memória ficou bem abaixo do limite do PIC18F4550, o que mostra que o c
 | `compilacao.png` | Print da compilação |
 | `simulacao.png` | Print da simulação em execução |
 
----
-
-## Como rodar a simulação
-
-1. Baixe e instale o [SimulIDE](https://simulide.com/p/downloads/)
-2. Abra o arquivo `projetofinal2.simu`
-3. Clique em Play
-4. Gire o potenciômetro para mudar a temperatura
-5. Use os botões para selecionar o modo e iniciar
-
----
 
 *Projeto desenvolvido para SEL0433 – Aplicação de Microprocessadores, EESC/USP.*
