@@ -113,6 +113,3 @@ O uso de memória ficou bem abaixo do limite do PIC18F4550, o que mostra que o c
 | `projetofinal2.simu` | Simulação no SimulIDE |
 | `compilacao.png` | Print da compilação |
 | `simulacao.png` | Print da simulação em execução |
-
-
-*Projeto desenvolvido para SEL0433 – Aplicação de Microprocessadores, EESC/USP.*
